@@ -1,5 +1,4 @@
-// Code made by Gaurav@Electrovilla :- www.youtube.com/@Electrovilla
-// Watch full Tutorail here:- https://youtu.be/HIxaGZjd8pk
+// Code made by Gaurav@Electrovilla
 
 #define in1 5  // in1 connected on Digital pin 5
 #define in2 6  // in2 connected on Digital pin 6
